@@ -1,0 +1,4 @@
+My goals are:
+1. To learn advanced JavaScript and modern web frameworks.
+2. To build professional, responsive websites.
+3. To graduate with honors in programming and applications.
